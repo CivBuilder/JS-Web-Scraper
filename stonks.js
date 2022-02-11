@@ -1,6 +1,6 @@
 /// @author Chris Catechis
 /// @date 2/10/2022
-/// this is a work in progress.
+/// requests data on some of my stonks.
 
 
 const puppeteer = require('puppeteer');
